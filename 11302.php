@@ -5,6 +5,7 @@
 
 // Inject some simple JavaScript, quick and dirty
 add_action( 'admin_head', function() {
+	// TODO: check $current_screen
 	?>
 		<style>
 			input[name="post_category[]"] {
