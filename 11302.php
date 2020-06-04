@@ -58,7 +58,7 @@ add_action( 'admin_head', function() {
 				} );
 
 				jQuery( '.inline-edit-categories input[name="post_category[]"]' ).on( 'change', function() {
-					// Remove the indeterminate flags if needed.
+					// Remove the indeterminate flags as there was a specific state change.
 					jQuery( this ).parent().find( 'input[name="indeterminate_post_category[]"]' ).remove();
 				} );
 			} );
