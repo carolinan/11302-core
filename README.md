@@ -2,7 +2,7 @@
 
 WordPress Core Feature Plugin for #11302
 
-![Before](https://raw.githubusercontent.com/soulseekah/11302-core/master/screenshot.png)
+![11302](https://raw.githubusercontent.com/soulseekah/11302-core/master/screenshot.png)
 
 WCEU2020 Contributor Day
 
